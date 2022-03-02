@@ -1,0 +1,588 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Raleway:400,200,100,300,500,600,700,800,900');
+
+
+body{
+    font-family: Raleway, Arial, sans-serif;
+    /* overflow-X: hidden; */
+}
+.firstpage{
+    background: url(header_bg.jpg);
+}
+.firstpages{
+    background: url(header_bg.jpg);
+}
+nav{
+    display: inline-flex;
+margin-left: 639px;
+padding: 20px;
+}
+ul{
+    color: rgb(250, 243, 243);
+}
+.link{
+    color: #3d9f96;
+}
+.grandtitre1{
+    margin-left: 746px;
+    color:#d1cdcd;
+    font-size: 35px;
+}
+.grandtitre2{
+margin-left: 965px;
+ margin-top: -79px;
+ color:#f7f7f7;
+ font-size: 40px;
+}
+.grandtitre3{
+    text-align: center;
+    color: #3d9f96;
+}
+.paragraphe1{
+    text-align: center;
+    color: #ababab;
+}
+.button{
+    margin-left: 840px;
+    color: white;
+    background-color:#3d9f96;
+    border-style: hidden;
+    border-radius:30px;
+    padding:1% 4%;
+}
+.image1{
+    margin-left: 646px;
+    margin-top: 100px;
+}
+.secondpage{
+    background-color: rgb(247, 247, 245);
+}
+figure img{
+    display: inline-flex;
+ margin-left: 6%;
+padding: 25px;
+}
+.grandtitre4{
+    text-align: center;
+    color: #3d9f96;
+    margin-top: 2px;
+    padding-bottom: 30px;
+}
+.thirdpage{
+    background-color: white;
+}
+.fourthpage{
+background-image: url(map_bg.png);
+padding-bottom: 50px;
+}
+.grandtitre5{
+    margin-left: 800px;
+    color: #ababab;
+    font-size: 30px;
+}
+.grandtitre6{
+    margin-left: 957px;
+    margin-top: -66px;
+}
+.paragraphe2{
+    text-align: center;
+    color: #ababab;
+}
+.mots{
+    margin-left: 0px;
+  margin-top: -25px;
+}
+.mot{
+    margin-left: 29px;
+    margin-top: -25px;
+}
+.pg{
+margin-left: 170px;
+}
+
+.figure{
+    margin-left: 765px;
+    margin-top: -325px;
+}
+figcaption{
+margin-left: 30px;
+margin-top: -235px;
+}
+.partiegauche{
+    margin-left: 500px;
+    margin-top: 200px;
+}
+.partiedroite{
+    margin-left: 1217px;
+    margin-top: -190px;
+}
+.fifth{
+    background-image: url(header_bg.jpg) ;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.avatar{
+    margin-right: 135px;
+}
+.paragraphe3{
+    color: #ababab;
+}
+.john{
+    color: #3d9f96;
+}
+.sixth{
+    background-color: white;
+    padding-bottom: 30px;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.grandtitre7{
+    color: #ababab;
+    margin-left: 177px;
+}
+.grandtitre8{
+    margin-left: 307px;
+    margin-top: -65px;
+    color: rgb(7, 0, 0);
+    font-size: 30px;
+}
+.fifthpage{
+    display: inline-flex;
+    background-color: rgb(247, 247, 245);
+    padding-bottom: 250px;
+    padding-right: 800px;
+}
+.screen1{
+margin-left: 200px;
+}
+.screen2{
+margin-left: 200px;
+}
+.screen3{
+    margin-left: 200px;
+}
+.screenshots1, .screenshots2, .screenshots3{
+   margin-top: -36px;
+   margin-left: 238px;
+   color: black;
+}
+
+.play{
+    margin-top: -350px;
+    margin-left: 520px;
+    
+}
+
+.flotte{
+    margin-left: 200px;
+}
+.grandtitre9{
+margin-left: 930px ;
+margin-top: -100px;
+font-size: 35px;
+color: rgb(36, 35, 35);
+}
+.grandtitre10{
+margin-left: 1040px;
+margin-top: -73px;
+}
+.ordinateur{
+    font-size: 100px;
+    margin-left: 400px;
+}
+.paragraphe4{
+    margin-left: 930px;
+}
+.button2{
+    margin-left: 931px;
+    color: white;
+    background-color:#3d9f96;
+    border-style: hidden;
+    border-radius:233px;
+    padding:1% 2%;
+}
+.pourcentage{
+margin-left: 500px;
+margin-top: 200px;
+font-size: 30px;
+}
+.responsive{
+margin-left: 590px;
+margin-top: -65px;
+}
+.paragraphe5{
+    margin-left: 501px;
+    margin-top: 10px;
+    color: rgb(39, 39, 39);
+}
+.button3{
+    margin-left: -1px;
+    margin-top: 31px;
+    color: white;
+    background-color:#3d9f96;
+    border-style: hidden;
+    border-radius:30px;
+    padding:1% 4%;
+}
+.imagee{
+    margin-left: 928px;
+    margin-top: -369px;
+    padding-top: 10px;
+}
+
+.dernierepage{
+    background-color: rgb(247, 247, 245);
+  padding-top: 100px;
+    padding-right: 200px;
+    padding: left 300px; ;
+}
+.sayna{
+    margin-left: 331px;
+    margin-top: -336px;
+    font-size: 40px;
+}
+.info{
+    margin-left: 633px;
+    margin-top: -111px;
+    font-size: 10px;
+}
+.contact{
+    margin-left: 798px;
+    margin-top: -128px;
+    font-size: 10px;
+}
+.footer{
+    margin-left: 275px;
+    font-size: 11px;
+  margin-top: 46px;
+}
+.paragrapheone{
+margin-left: 336px;
+font-size: 12px;
+}
+.paragraphetwo{
+font-size: 12px;
+}
+.paragraphetree{
+font-size: 12px;
+}
+.dernierfigure{
+    margin-left: 822px;
+    margin-top: -40px;
+   
+}
+
+.dernierfigure img{
+    padding: 10px;
+}
+
+
+#focus{
+    margin-left: -250px;
+}
+
+#flou{
+    margin-left: -235px
+}
+ 
+#saynaa{
+ 
+    margin-left: -61px;
+}
+
+
+
+.contact{
+
+    margin-right: 700px;
+}
+.intrus{
+    display: none;
+}
+.intrus2{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:720px){
+    body{
+        margin: 0;
+        padding: 0;
+        background-color: white;
+    }
+
+.ul{
+  display: none;  
+}
+nav{
+    display: inline-flex;
+margin-left: 160px;
+padding: 20px;
+}
+.grandtitre1{
+    margin-left: 151px;
+    color:#d1cdcd;
+    font-size: 35px;
+}
+.grandtitre2{
+margin-left: 366px;
+ margin-top: -79px;
+ color:#f7f7f7;
+ font-size: 40px;
+}
+.button{
+    margin-left: 243px;
+    color: white;
+    background-color:#3d9f96;
+    border-style: hidden;
+    border-radius:30px;
+    padding:2% 9%;
+}
+.image1{
+    margin-left: 36px;
+    margin-top: 100px;
+}
+figure img{
+    display: inline-flex;
+ margin-left: 7px;
+padding: 10px;
+}
+.grandtitre4{
+    display: none;
+}
+.grandtitre5{
+    margin-left: 187px;
+    color: #ababab;
+    font-size: 30px;
+}
+.grandtitre6{
+    margin-left: 334px;
+    margin-top: -66px;
+}
+.paragraphe2{
+    margin-left: -23px;
+    color: black;
+}
+.partiegauche{
+    margin-left: 265px;
+    margin-top: 27px;
+}
+.mot{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.figure{
+    margin-left: 230px;
+    margin-top: 26px;
+}
+.partiedroite{
+    margin-left: 250px;
+    margin-top: 207px;
+}
+.fifth{
+    background-image: url(header_bg.jpg) ;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.avatar{
+    margin-right: 51px;
+}
+.paragraphe3{
+    color: #ababab;
+}
+.john{
+    color: #3d9f96;
+}
+.sixth{
+    background-color: white;
+    padding-bottom: 30px;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.screen1{
+    margin-left: 203px;
+    }
+    .screen2{
+    margin-left: -331px;
+    margin-top: 437px;
+    }
+    .screen3{
+     display: none;
+       
+    }
+    .screenshots1{
+        margin-top: 15px;
+    }
+    .screenshots2{
+       margin-left: -299px;
+       margin-top: 15px;
+     }
+.intrus{
+    display: block;
+    margin-left: 479px;
+    margin-top: 107px;
+}
+.ordinateur, .play{
+    display: none;
+}
+.grandtitre9{
+margin-left: 490px;
+margin-top: 0px;
+}
+.grandtitre10{
+margin-left: 600px;
+margin-top: -72px;
+}
+.paragraphe4{
+margin-left: 470px;
+}
+.button2{
+margin-left: 520px;
+margin-top: 30px;
+border-radius:233px;
+padding:2% 5%;
+}
+.pourcentage{
+    margin-left: 447px;
+    margin-top: 100px;
+    
+}
+.imagee{
+    display: none;
+}
+.intrus2{
+    display: block;
+    margin-left: 450px;
+    margin-top: 100px;
+}
+.button3{
+    border-radius:30px;
+    padding:5% 10%;
+    margin-left: 50px;
+}
+.paragraphe5{
+    margin-left: 449px;
+}
+.responsive{
+    margin-left: 525px;
+}
+.sayna{
+ margin-left: 373px;
+width: 400px;
+}
+.paragrapheone{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 473px;
+}
+.paragraphetwo{
+    text-align: center;
+    margin-left: -522px;
+    margin-top: 46px;
+    font-size: 20px;
+}
+.INFO{
+    margin-left: -524px;
+    margin-top: 174px;
+    font-size: 30px;
+    text-align: center;
+}
+.CONTACT{
+    margin-left: -841px;
+    margin-top: 174px;
+    font-size: 30px;
+    text-align: center;
+}
+.paragraphetree{
+    margin-left: -844px;
+    margin-top: 47px;
+    text-align: center;
+    font-size: 20px;
+}
+.dernierepage{
+    padding-bottom: 88px;
+}
+.footer{
+    margin-left: 10px;
+   font-size: 20px;
+   text-align: center;
+}
+.dernierfigure{
+ margin-left: 296px;
+ margin-top: 40px;
+}
+#saynaa{
+    margin-left: -234px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
